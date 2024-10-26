@@ -26,6 +26,7 @@
       gcc
       openjdk
       screen
+      binutils
   ];	
     	
   # Use the systemd-boot EFI boot loader.
