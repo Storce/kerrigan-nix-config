@@ -26,6 +26,7 @@
       gcc
       openjdk
       screen
+      powertop
   ];	
     	
   # Use the systemd-boot EFI boot loader.
